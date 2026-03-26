@@ -1,0 +1,5 @@
+{
+  "name": "Rotating 3D Line Animation",
+  "description": "A 3D-like projection of a line rotating between two circles, with a solid-to-dashed animation effect.",
+  "requestFramePermissions": []
+}
